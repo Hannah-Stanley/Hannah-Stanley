@@ -5,6 +5,12 @@ Hi, I am [Hannah](https://github.com/Hannah-Stanley) a training full stack web d
 Social Media 
 * [LinkedIn Profile](https://www.linkedin.com/in/hannah-stanley-973637210/)
 
-**Languages**
-* learning Javascript
-* learning Python
+**Languages I am learning:**
+* Javascript
+* Python
+
+**Skills:**
+* HTML
+* CSS
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
